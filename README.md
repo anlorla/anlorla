@@ -1,6 +1,6 @@
 ## Hi, I'm Yifan (Ivy) Wang
 
-Incoming MPhil student in the **Red Bird Program, ROAS Thrust @ HKUST(GZ)**, working on
+First-year MPhil student in the **Red Bird Program, ROAS Thrust @ HKUST(GZ)**, working on
 **robot learning for manipulation**. B.Eng. in Cyber Science and Engineering from Sichuan University.
 Previously @ [NeoteAI](https://research.neoteai.com/), working on tactile world action models.
 
