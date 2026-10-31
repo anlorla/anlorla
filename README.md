@@ -6,4 +6,4 @@ First-year MPhil student in the **ROAS Thrust @ HKUST(GZ)**, supervised by
 
 ---
 
-🌐 [anlorla.github.io](https://anlorla.github.io) · ✉️ ywang083 [at] connect [dot] hkust-gz [dot] edu [dot] cn
+🌐 [anlorla.github.io](https://anlorla.github.io) · ✉️ [ywang083@connect.hkust-gz.edu.cn](mailto:ywang083@connect.hkust-gz.edu.cn)
