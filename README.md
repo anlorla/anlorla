@@ -1,6 +1,7 @@
 ## Hi, I'm Yifan (Ivy) Wang
 
-First-year MPhil student in the **Red Bird Program, ROAS Thrust @ HKUST(GZ)**, working on
+First-year MPhil student in the **ROAS Thrust @ HKUST(GZ)**, supervised by
+[Haoang Li](https://sites.google.com/view/haoangli/homepage), working on
 **robot learning for manipulation**. B.Eng. in Cyber Science and Engineering from Sichuan University.
 Previously @ [NeoteAI](https://research.neoteai.com/), working on tactile world action models.
 
@@ -12,14 +13,10 @@ What lets a robot policy generalize beyond memorized behavior:
 - **Memory** — how memory sustains long-horizon tasks
 - **Efficiency** — what keeps the whole system practical to run
 
-### Selected work
+### Academic service
 
-| | |
-|---|---|
-| **𝒩₀-Foundation** — Towards the Age of Tactile Intelligence | [report](https://research.neoteai.com/assets/n0-foundation-report.pdf) · [project](https://research.neoteai.com/n0-foundation/) · [code](https://github.com/neoteai/N0-Foundation) |
-| **𝒩₀-TWAM** — Scaling Tactile-Native World Action Model for Contact-Rich Manipulation | [report](https://research.neoteai.com/assets/n0-twam-report.pdf) · [project](https://research.neoteai.com/n0-twam/) · [code](https://github.com/neoteai/N0-TWAM) |
-| **𝒩₀-VTLA** — Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens | [report](https://research.neoteai.com/assets/n0-vtla-report.pdf) · [project](https://research.neoteai.com/n0-vtla/) · [code](https://github.com/neoteai/N0-VTLA) |
+- Conference reviewer: ICRA 2027
 
 ---
 
-🌐 [anlorla.github.io](https://anlorla.github.io) · ✉️ ivyquinewang [at] gmail [dot] com
+🌐 [anlorla.github.io](https://anlorla.github.io) · ✉️ ywang083 [at] connect [dot] hkust-gz [dot] edu [dot] cn
